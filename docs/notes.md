@@ -12,7 +12,8 @@ This is where you can write notes in markdown if you'd like.
 # Modeling and analysis
 
 
-# Worklow
+# Workflow
 
 
 # Deliverables
+This assignment was quite difficult for me to grasp, liekly for my own reasons. I gave it my best effort but do realize there may be some errors.
